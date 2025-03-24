@@ -20,7 +20,7 @@ const Room = () => {
               {
                 name: 'Personal link',
                 url:
-                  `http://localhost:5173/room/${id}`
+                  `https://zegovideocall.vercel.app/room/${id}`
               },
             ],
             scenario: {
